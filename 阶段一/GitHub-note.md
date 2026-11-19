@@ -36,7 +36,7 @@ https://v.douyin.com/GUUGw47t59U/ :4pm Ago:/ z@G.II 07/01
 
 **git clone** ：将完整的仓库下载到本地电脑，将全部：所有文件、所有历史修改记录、分支全都拷下来。
 
-**fx/c ：用来修复bug的分支
+**fx/** ：用来修复bug的分支
 
 **feat /** ：用来开发新功能分支
 
