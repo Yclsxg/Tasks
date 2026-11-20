@@ -1,5 +1,3 @@
-[GitHub.md](https://github.com/user-attachments/files/35060619/GitHub.md)
-
 # 我的GitHub学习笔记🤓
 ## 一、对于Geek的理解
 Geek翻译过来就是极客，是一群喜欢把问题抛根问底的人🤔，好奇“为什么” 关心“底层原理”敢于挑战权威，乐于实践，热爱技术。
