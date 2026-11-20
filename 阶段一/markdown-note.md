@@ -1,5 +1,3 @@
-[markdown-note.md](https://github.com/user-attachments/files/35060607/markdown-note.md)
-
 # 我的markdown学习笔记🤗
 
 ## 一、认识markdown
