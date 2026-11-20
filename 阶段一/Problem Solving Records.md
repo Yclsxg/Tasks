@@ -1,5 +1,3 @@
-[Problem Solving Records.md](https://github.com/user-attachments/files/35063509/Problem.Solving.Records.md)
-
 # 我的问题解决记录😉
 
 本次在学习 GitHub 使用、Markdown 排版、个人主页美化的全过程中，我遇到了多项实操问题，通过一步步排查、学习、实操，全部顺利解决。以下为本次完整问题与解决方案总结：
