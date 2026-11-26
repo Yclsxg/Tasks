@@ -48,8 +48,6 @@ git commit -m "美化主页 README"
 # 推送到远程 main 分支
 git push origin main
 
-# 推送到远程 main 分支
-git push origin main
 ```
 ###  三、使用GitBash推送Hello.md文档到远程仓库流程
 - Git 推送流程
@@ -69,8 +67,6 @@ git push origin main
    - `git remote -v` 查看远程仓库
    - `git remote add origin 远程仓库地址` 绑定远程仓库
 
-5. 推送到远程仓库
-   `git push -u origin master`
 
 ### 四、替代 GitBash 提交更方便，更效率的方法
 #### VSCode 提交远程仓库方法
